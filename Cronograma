@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Calendario del Proyecto de Análisis de Streaming</title>
+</head>
+<body>
+    <h1>Calendario del Proyecto de Análisis de Streaming</h1>
+    <p>El calendario del proyecto se ha diseñado para abarcar todas las etapas necesarias desde la concepción hasta la entrega final. A continuación, se detalla el cronograma:</p>
+    
+    <h2>Fase de Inicio y Planificación - Semana 1 a Semana 2:</h2>
+    <ul>
+        <li>Definición del alcance del proyecto.</li>
+        <li>Selección de herramientas y tecnologías a utilizar.</li>
+        <li>Creación del equipo de proyecto.</li>
+    </ul>
+    
+    <h2>Recolección y Preparación de Datos - Semana 3 a Semana 5:</h2>
+    <ul>
+        <li>Identificación y acceso a fuentes de datos relevantes.</li>
+        <li>Limpieza y preparación de los datos para análisis.</li>
+    </ul>
+    
+    <h2>Análisis Exploratorio de Datos - Semana 6 a Semana 8:</h2>
+    <ul>
+        <li>Análisis exploratorio para comprender las tendencias.</li>
+        <li>Identificación de patrones preliminares.</li>
+    </ul>
+    
+    <h2>Modelado y Análisis Profundo - Semana 9 a Semana 12:</h2>
+    <ul>
+        <li>Desarrollo y entrenamiento de modelos predictivos.</li>
+        <li>Evaluación de modelos y ajuste de parámetros.</li>
+    </ul>
+    
+    <h2>Interpretación de Resultados y Preparación del Informe - Semana 13 a Semana 15:</h2>
+    <ul>
+        <li>Interpretación de los resultados del análisis.</li>
+        <li>Preparación del informe final con hallazgos y recomendaciones.</li>
+    </ul>
+    
+    <h2>Revisión y Ajustes - Semana 16:</h2>
+    <ul>
+        <li>Revisión del informe por parte de stakeholders.</li>
+        <li>Incorporación de feedback y ajustes finales.</li>
+    </ul>
+    
+    <h2>Presentación y Entrega Final - Semana 17:</h2>
+    <ul>
+        <li>Presentación final del proyecto a los stakeholders.</li>
+        <li>Entrega del informe final y materiales complementarios.</li>
+    </ul>
+</body>
+</html>
+
